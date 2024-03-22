@@ -82,16 +82,3 @@ select{
 
 
 
-@media (max-width: 768px) {
-    .hero {
-        min-height: auto; /* Allow hero section to adjust to content height */
-    }
-
-    .hero h1 {
-        font-size: 30px; /* Adjust header size for smaller screens */
-    }
-
-    textarea, .row {
-        width: 100%; /* Make elements fit the entire width on small screens */
-    }
-}
